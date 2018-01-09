@@ -7,7 +7,7 @@ var exec = require("child_process").exec;
 app.use(express.static("public"));
 
 app.post("/github-webhook", function(req, res) {
-	exec("sudo update_from_git.sh");
+	exec("./update_from_git.sh");
 	res.sendStatus(200);
 });
 
