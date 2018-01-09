@@ -1,0 +1,26 @@
+{
+  "name": "plato",
+  "version": "1.0.0",
+  "description": "Weight plate calculator",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhyAge/plato.git"
+  },
+  "author": "Jay Harel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhyAge/plato/issues"
+  },
+  "homepage": "https://github.com/WhyAge/plato#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
