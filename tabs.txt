@@ -1,0 +1,7 @@
+https://drive.google.com/drive/folders/0B5E9mYIQK7HaYzBMUV9VZ21nUDA
+https://docs.google.com/document/d/1N8Iqk_Ut7ClTcRXMQHN5khNNJpzCZ4ILTkJK25qw3qk/edit
+file:///C:/Users/jharel/Files/proj/plato/plato.html
+https://github.com/WhyAge/plato
+https://cloud.digitalocean.com/droplets/56532177/access?i=ed715f
+https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2
+https://www.npmjs.com/package/forever
